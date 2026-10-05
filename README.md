@@ -1,10 +1,10 @@
 # Proyecto Django — [Tus Nombres y Apellidos]
 
 ## Demo en vivo (producción)
-https://mi-proyecto-django-aiven-dpod.onrender.com
+https://u2s4-dominguez-padilla-oliver-daniel.onrender.com
 
 ## Panel de administración
-https://mi-proyecto-django-aiven-dpod.onrender.com/admin
+https://u2s4-dominguez-padilla-oliver-daniel.onrender.com/admin
 
 ## Semana 4 — Modelos y despliegue dinámico
 Modelo Servicio migrado a MySQL, Web Service publicado en Render,
